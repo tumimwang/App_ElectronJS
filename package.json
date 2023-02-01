@@ -1,0 +1,16 @@
+{
+  "name": "EJAPP",
+  "productName": "PCWANG",
+  "version": "0.0.0",
+  "description": "Make EJ App Anti-Virus",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "tumimwang",
+  "license": "tumimwang",
+  "dependencies": {
+    "electron": "^22.1.0",
+    "toastify-js": "^1.12.0"
+  }
+}
